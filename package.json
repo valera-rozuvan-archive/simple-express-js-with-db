@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "repository": "https://github.com/valera-rozuvan",
+  "repository": "https://github.com/valera-rozuvan/simple-express-js-with-db.git",
   "description": "A simple setup of Express.js and NeDB",
   "main": "./bin/start-server.js",
   "private": true,
