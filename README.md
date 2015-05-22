@@ -4,7 +4,7 @@ This is a simple project to demonstrate the following concepts and
 technologies:
 
 - [Express.js](http://expressjs.com/) minimalist web framework for Node.js
-- [NeDB](Embedded persistent database for Node.js) Embedded persistent database
+- [NeDB](https://github.com/louischatriot/nedb) Embedded persistent database
 for Node.js
 - [REST API](http://en.wikipedia.org/wiki/Representational_state_transfer) for
 [CRUD](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) operations
