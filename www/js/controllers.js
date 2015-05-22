@@ -1,3 +1,5 @@
+'use strict';
+
 angular.module('userApp.controllers', [])
     .controller('UserListController', function(
         $scope, $state, popupService, $window, User

@@ -1,3 +1,5 @@
+'use strict';
+
 var express = require('express'),
   usersModel = require('../models/usersModel.js'),
 
@@ -54,6 +56,8 @@ router.route('/users/:id')
     usersModel.findOne({
       _id: req.params.id
     }, function(err, user) {
+      var prop;
+
       if (err) {
         res.send(err);
 

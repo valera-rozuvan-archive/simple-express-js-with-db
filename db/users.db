@@ -1,2 +1,9 @@
 {"username":"Valera","password":"pass1234","email":"valra@gmail.com","age":"26","_id":"081SD6VBQb4Vx0Rg"}
 {"username":"Jerry","password":"oook1234@","email":"a@a.a","age":"001","_id":"TdTCkDpLes30WsN8"}
+{"username":"Valera","password":"pass1234","email":"valra@gmail.com","age":"26","_id":"081SD6VBQb4Vx0Rg"}
+{"username":"Valera","password":"pass1234","email":"valra@gmail.com","age":"26","_id":"081SD6VBQb4Vx0Rg"}
+{"$$deleted":true,"_id":"TdTCkDpLes30WsN8"}
+{"$$deleted":true,"_id":"081SD6VBQb4Vx0Rg"}
+{"age":"1","email":"1","password":"1","username":"1","_id":"Qx2WNw8y9vPgUfOU"}
+{"age":"1","email":"1","password":"1","username":"s","_id":"Qx2WNw8y9vPgUfOU"}
+{"$$deleted":true,"_id":"Qx2WNw8y9vPgUfOU"}

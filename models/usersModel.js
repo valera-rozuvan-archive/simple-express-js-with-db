@@ -1,3 +1,5 @@
+'use strict';
+
 var Datastore = require('nedb'),
 
   usersDb = new Datastore({
