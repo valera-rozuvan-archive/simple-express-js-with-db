@@ -1,28 +1,44 @@
 #A simple setup of Express.js and NeDB
 
-## Prerequisites
+This is a simple project to demonstrate the following concepts and
+technologies:
+
+- [Express.js](http://expressjs.com/) minimalist web framework for Node.js
+- [NeDB](Embedded persistent database for Node.js) Embedded persistent database
+for Node.js
+- [REST API](http://en.wikipedia.org/wiki/Representational_state_transfer) for
+[CRUD](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) operations
+on user data
+- [AngularJS](https://angularjs.org/) HTML enhanced for web apps - user
+interface
+
+It serves as an example, and shouldn't be used `as is` in a production
+environment. Now that you have been warned, let's get started = )
+
+## Requirements
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 
 ## Running locally
 
-To run this locally, clone the repository
-`https://github.com/valera-rozuvan/simple-express-js-with-db.git`, and run the
-following commands:
+To run this locally, clone this repository
+(`https://github.com/valera-rozuvan/simple-express-js-with-db.git`), and run
+the following commands:
 
+    $ cd simple-express-js-with-db
     $ npm install
     $ npm start
 
-You can then open `http://localhost:8000/` in your browser.
+You can then navigate to `http://localhost:8000/` in your browser of choice.
 
 ## Author
 
-[Valera Rozuvan](http://valera.rozuvan.net/)
+Written by [Valera Rozuvan](http://valera.rozuvan.net/).
 
 ## License
 
-`A simple setup of Express.js and NeDB` is licensed under GNU GENERAL PUBLIC
-LICENSE Version 2, June 1991
+This project `A simple setup of Express.js and NeDB` is licensed under the
+`GNU GENERAL PUBLIC LICENSE Version 2, June 1991`.
 
-See [LICENSE](https://github.com/valera-rozuvan/simple-express-js-with-db/blob/master/LICENSE)
+See [LICENSE](https://github.com/valera-rozuvan/simple-express-js-with-db/blob/master/LICENSE) file for more information.
