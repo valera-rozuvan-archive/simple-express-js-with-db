@@ -14,8 +14,8 @@
   "author": "Valera Rozuvan",
   "license": "GPLv2",
   "dependencies": {
-    "express": "~4.2.0",
-    "body-parser": "~1.0.0",
-    "nedb": "^1.1.2"
+    "express": "4.12.4",
+    "body-parser": "1.12.4",
+    "nedb": "1.1.2"
   }
 }
