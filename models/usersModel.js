@@ -1,6 +1,7 @@
 var Datastore = require('nedb'),
+
   usersDb = new Datastore({
-    filename: '../db/users.db',
+    filename: __dirname + '/../db/users.db',
     autoload: true
   });
 
