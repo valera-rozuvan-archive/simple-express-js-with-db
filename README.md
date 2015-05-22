@@ -12,8 +12,8 @@ on user data
 - [AngularJS](https://angularjs.org/) HTML enhanced for web apps - user
 interface
 
-It serves as an example, and shouldn't be used `as is` in a production
-environment. Now that you have been warned, let's get started = )
+This project serves as an example, and shouldn't be used `as is` in a
+production environment. Now that you have been warned, let's get started = )
 
 ## Requirements
 
