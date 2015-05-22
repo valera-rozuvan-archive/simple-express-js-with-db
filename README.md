@@ -17,8 +17,8 @@ production environment. Now that you have been warned, let's get started = )
 
 ## Requirements
 
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
+- [Node.js](https://nodejs.org/) (tested with `node` version 0.12.0)
+- [npm](https://www.npmjs.com/) (tested with `npm` version 2.5.1)
 
 ## Running locally
 
