@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.top-buffer {
+  margin-top: 10px;
+}
+.usertable tr td:nth-child(2) {
+  width: 150px;
+}
+.usertable tr:nth-child(1) td {
+  border-top: none;
+}
+a {
+  color: #00B7FF;
+}
+a.nodecoration {
+  text-decoration: none;
+}
+.navbar-default.custom {
+  background-color: #A6C0EF;
+}

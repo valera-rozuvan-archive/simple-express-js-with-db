@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "repository": "https://github.com/valera-rozuvan",
+  "description": "A simple setup of Express.js and NeDB",
+  "main": "./bin/start-server.js",
+  "private": true,
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "start": "node ./bin/start-server.js"
+  },
+  "author": "Valera Rozuvan",
+  "license": "GPLv2",
+  "dependencies": {
+    "express": "~4.2.0",
+    "body-parser": "~1.0.0",
+    "nedb": "^1.1.2"
+  }
+}
