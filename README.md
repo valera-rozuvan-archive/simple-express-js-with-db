@@ -1,5 +1,11 @@
 #A simple setup of Express.js and NeDB
 
+## wip has moved
+
+Future work on this repository has moved to the monorepo [valera-rozuvan/experiments](https://github.com/valera-rozuvan/experiments). This repo is archived for historic purposes (to preserve commit history). Navigate over to [experiments/simple-express-js-with-db](https://github.com/valera-rozuvan/experiments/tree/main/simple-express-js-with-db) to see updates (if any).
+
+## introduction
+
 This is a simple project to demonstrate the following concepts and
 technologies:
 
